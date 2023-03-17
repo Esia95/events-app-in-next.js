@@ -1,3 +1,10 @@
+# Events App in Next.js
+
+## [Live demo](https://vercel.com/esia95/events-app-in-next-js/6vmUSQcm6McEydnXA2atbQhq2VBy)
+
+<img width="1263" alt="Screenshot 2023-03-17 at 12 29 36" src="https://user-images.githubusercontent.com/99197755/225894408-31535789-8636-4231-8783-273c295ffe0a.png">
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
