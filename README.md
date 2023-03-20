@@ -1,6 +1,6 @@
 # Events App in Next.js
 
-## [Live demo](https://vercel.com/esia95/events-app-in-next-js/6vmUSQcm6McEydnXA2atbQhq2VBy)
+## [Live demo](https://events-app-in-next-js-git-main-esia95.vercel.app/)
 
 <img width="1263" alt="Screenshot 2023-03-17 at 12 29 36" src="https://user-images.githubusercontent.com/99197755/225894408-31535789-8636-4231-8783-273c295ffe0a.png">
 
